@@ -1,0 +1,23 @@
+[
+  {
+    "student_id": "S101",
+    "name": "Aarav Sharma",
+    "age": 16,
+    "grade": "10",
+    "marks": 91.5
+  },
+  {
+    "student_id": "S102",
+    "name": "Diya Verma",
+    "age": 15,
+    "grade": "9",
+    "marks": 88.0
+  },
+  {
+    "student_id": "S103",
+    "name": "Kabir Singh",
+    "age": 17,
+    "grade": "11",
+    "marks": 95.0
+  }
+]
